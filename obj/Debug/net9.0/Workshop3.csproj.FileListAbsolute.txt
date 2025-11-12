@@ -1,0 +1,4 @@
+D:\application development\Workshop3\Workshop3\obj\Debug\net9.0\Workshop3.GeneratedMSBuildEditorConfig.editorconfig
+D:\application development\Workshop3\Workshop3\obj\Debug\net9.0\Workshop3.AssemblyInfoInputs.cache
+D:\application development\Workshop3\Workshop3\obj\Debug\net9.0\Workshop3.AssemblyInfo.cs
+D:\application development\Workshop3\Workshop3\obj\Debug\net9.0\Workshop3.csproj.CoreCompileInputs.cache
